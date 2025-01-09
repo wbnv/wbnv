@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Hesham!
 
 ## 💻 About Me
 I'm a **cybersecurity enthusiast** and aspiring professional passionate about safeguarding systems and networks. With a solid foundation in IT and a growing expertise in cybersecurity, I aim to make a positive impact in the digital world.
@@ -48,9 +48,8 @@ I'm a **cybersecurity enthusiast** and aspiring professional passionate about sa
 ## 📬 Let's Connect
 - 🌐 [Portfolio](https://yourportfolio.com) (Coming Soon)
 - 📫 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- 🧑‍💻 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/heshamelhamdani)
+- 🧑‍💻 **GitHub**: [github.com/yourusername](https://github.com/xbnh)
 
 ---
 
