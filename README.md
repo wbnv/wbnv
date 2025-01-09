@@ -1,7 +1,8 @@
 ## 🛠️ Skills & Tools
 
 ### 🔧 Technical Skills
-![PowerPoint Icon](https://cdn-icons-png.flaticon.com/512/732/732224.png)
+<img src="https://cdn-icons-png.flaticon.com/512/732/732224.png" alt="PowerPoint Icon" width="50">
+
 
 ---
 
