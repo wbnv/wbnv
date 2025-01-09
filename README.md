@@ -29,7 +29,7 @@ Analyzed traffic using Wireshark to identify potential threats.
 ## 📬 Let's Connect
 <p>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=green" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
