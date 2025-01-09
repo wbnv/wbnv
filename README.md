@@ -9,7 +9,8 @@ I'm a **cybersecurity enthusiast** passionate about safeguarding systems and net
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="(https://www.flaticon.com/free-icon/linux_15465695?term=linux&page=1&position=4&origin=search&related_id=15465695)" alt="Flaticon Icon" width="40">
+  <img src="![image](https://github.com/user-attachments/assets/270a5f94-853c-4355-a2fb-4fe3bab7a930)
+" alt="Flaticon Icon" width="40">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Metasploit"/>
