@@ -96,9 +96,9 @@ I'm a highly skilled **Cybersecurity Professional** with hands-on experience in 
 Feel free to connect with me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/heshamelhamdani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/wbnv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://heshamelhamdani.com"><img src="https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
