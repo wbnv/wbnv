@@ -27,7 +27,7 @@ I'm a **cybersecurity enthusiast** and aspiring professional passionate about sa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white)S
+![Metasploit](https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
