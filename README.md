@@ -2,7 +2,7 @@
 
 ### 🔧 Technical Skills
 <img src="https://cdn-icons-png.flaticon.com/512/732/732224.png" alt="PowerPoint Icon" width="30">
-![Excel Icon](https://cdn-icons-png.flaticon.com/512/732/732220.png)
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="PowerPoint Icon" width="30">
 
 
 
