@@ -21,10 +21,13 @@ I'm a **cybersecurity enthusiast** and aspiring professional passionate about sa
 - Configuration and troubleshooting
 - Command-line tools (Linux, Windows)
 
-### 🧰 Tools
-- Kali Linux, Metasploit, Wireshark
-- Virtualization (VMware, VirtualBox)
-- SIEM platforms (Splunk, ELK)
+### 🛠️ Skills & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white)S
 
 ---
 
