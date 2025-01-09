@@ -48,8 +48,8 @@ I'm a **cybersecurity enthusiast** and aspiring professional passionate about sa
 ## 📬 Let's Connect
 - 🌐 [Portfolio](https://yourportfolio.com) (Coming Soon)
 - 📫 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/heshamelhamdani)
-- 🧑‍💻 **GitHub**: [github.com/yourusername](https://github.com/xbnh)
+- 💼 **LinkedIn**: [My LinkedIn Profile!](https://linkedin.com/in/heshamelhamdani)
+- 🧑‍💻 **GitHub**: [My GitHub!](https://github.com/xbnh)
 
 ---
 
