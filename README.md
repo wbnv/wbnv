@@ -1,9 +1,7 @@
 ## 🛠️ Skills & Tools
 
 ### 🔧 Technical Skills
-- Network Configuration (TCP/IP, DNS, DHCP)
-- Vulnerability Scanning (Nessus, OpenVAS)
-- Troubleshooting and Incident Response
+![PowerPoint Icon](https://cdn-icons-png.flaticon.com/512/732/732224.png)
 
 ---
 
