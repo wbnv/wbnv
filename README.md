@@ -14,7 +14,8 @@ I'm a passionate **Cybersecurity Professional** with experience in **System Admi
 ---
 
 ## 🎓 Certifications
-- **CompTIA Security+** (Active – 2025)  
+- **CompTIA Security+** (Active)
+- **ISC2 CC (Certified in Cybersecurity)** (Active)   
 - **CompTIA Network+** (In Progress)  
 - **CompTIA CySA+** (In Progress)  
 - **CompTIA Pentest+** (In Progress)  
