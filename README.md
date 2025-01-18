@@ -26,10 +26,10 @@ I'm a passionate **Cybersecurity Professional** with experience in **System Admi
 ## 🌟 Featured Projects
 - **[Project 1: AES Encryption & Decryption Tool](#)**  
   _Developed an Encryption Tool that implements the AES Standard._
-- **[Project 2: Vulnerability Scanner](#)**  
-  _Developed a Python-based vulnerability management tool with Nessus._
-- **[Project 3: Active Directory Security](#)**  
-  _Hardened Active Directory configurations to reduce common attack vectors._
+- **[Project 2: Coming Soon...](#)**  
+  _Coming Soon..._
+- **[Project 3: Coming Soon...](#)**  
+  _Coming Soon..._
 
 ---
 
