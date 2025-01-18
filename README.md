@@ -24,7 +24,7 @@ I'm a passionate **Cybersecurity Professional** with experience in **System Admi
 ---
 
 ## 🌟 Featured Projects
-- **[Project 1: Network Traffic Analyzer](#)**  
+- **[Project 1: AES Encryption & Decryption Tool](#)**  
   _Analyzed and secured network traffic using Wireshark._
 - **[Project 2: Vulnerability Scanner](#)**  
   _Developed a Python-based vulnerability management tool with Nessus._
